@@ -1,0 +1,14 @@
+{
+  "name": "hello-interactive",
+  "version": "1.0.0",
+  "description": "A hello world example for Mixer Interactive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r3dMontag",
+  "license": "MIT",
+  "dependencies": {
+    "beam-interactive-node2": "^2.0.0"
+  }
+}
