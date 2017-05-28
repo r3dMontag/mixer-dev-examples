@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "beam-interactive-node2": "^2.0.0",
+    "dotenv": "^4.0.0",
     "ws": "^3.0.0"
   }
 }
