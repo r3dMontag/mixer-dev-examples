@@ -1,14 +1,16 @@
 {
   "name": "king-of-the-hill-interactive",
   "version": "1.0.0",
-  "description": "",
+  "description": "Press the button, pay the spark and become King of The Hill",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "redMontag",
+  "author": "r3dMontag",
   "license": "MIT",
   "dependencies": {
-    "beam-interactive-node2": "^2.0.0"
+    "beam-interactive-node2": "^2.0.0",
+    "dotenv": "^4.0.0",
+    "ws": "^3.0.0"
   }
 }
