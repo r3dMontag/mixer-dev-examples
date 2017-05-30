@@ -1,5 +1,5 @@
-# Hello World Interactive
-A basic example using [Mixer's Interactive Node library](https://github.com/mixer/interactive-node) to render a button. 
+# King Of The Hill Interactive
+A competitive game using [Mixer's Interactive Node library](https://github.com/mixer/interactive-node) to render a button that displays your name for sparks. However, everytime the button is pushed, the cost to become King Of The Hill goes up! 
 
 ## Prerequisites
 You will need:
