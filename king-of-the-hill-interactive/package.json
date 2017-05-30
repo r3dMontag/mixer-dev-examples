@@ -1,0 +1,14 @@
+{
+  "name": "king-of-the-hill-interactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "redMontag",
+  "license": "MIT",
+  "dependencies": {
+    "beam-interactive-node2": "^2.0.0"
+  }
+}
